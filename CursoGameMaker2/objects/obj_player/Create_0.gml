@@ -1,4 +1,4 @@
-/// @description Tipos de dados do GML:
+/// @description Aulas do GML:
 
 // Números Reais: 0, -1, 2.5
 // Textos: "String"
@@ -141,3 +141,39 @@ switch(dificuldade)
 show_message(vidas_player)
 show_message(inimigos_tela)
 */	
+
+// Estruturas de Repetição ou Loops
+
+/*
+n1 = 0
+
+repeat(5)
+{
+	n1++;
+	show_debug_message(n1)
+}
+
+
+while(n1 <= 5)
+{
+	n1++;
+	show_debug_message(n1)
+}
+
+
+golpeando = falso;
+golpe_especial = 0;
+
+while(golpeando == true)
+{
+	golpe_especial++
+	show_debug_message(golpe_especial)
+}
+
+
+for (x = 0; x <= 10; x++) // 1. variavel 2. Regra da repetição  3. O que acontece antes da repetição
+{
+	show_debug_message(x);
+	show_debug_message("Olá eu sou o For");
+}
+*/
