@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},"order":0,},
   ],
@@ -28,8 +27,8 @@
     {"folderPath":"folders/Shaders.yy","order":6,"resourceVersion":"1.0","name":"Shaders","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Fontes.yy","order":7,"resourceVersion":"1.0","name":"Fontes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Linhas do tempo.yy","order":8,"resourceVersion":"1.0","name":"Linhas do tempo","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Objetos.yy","order":9,"resourceVersion":"1.0","name":"Objetos","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Cenas.yy","order":10,"resourceVersion":"1.0","name":"Cenas","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":9,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sequências.yy","order":11,"resourceVersion":"1.0","name":"Sequências","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Curvas da animação.yy","order":12,"resourceVersion":"1.0","name":"Curvas da animação","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Anotações.yy","order":13,"resourceVersion":"1.0","name":"Anotações","tags":[],"resourceType":"GMFolder",},
