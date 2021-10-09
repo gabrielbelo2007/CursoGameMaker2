@@ -1,6 +1,9 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":0,},
+    {"id":{"name":"spr_heroi","path":"sprites/spr_heroi/spr_heroi.yy",},"order":0,},
+    {"id":{"name":"spr_nineslice","path":"sprites/spr_nineslice/spr_nineslice.yy",},"order":1,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -15,6 +18,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
