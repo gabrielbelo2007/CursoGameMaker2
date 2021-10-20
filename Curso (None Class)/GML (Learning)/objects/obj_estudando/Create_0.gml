@@ -78,10 +78,11 @@ while (true)
 }
 */
 
-nota1 = get_integer("Qual foi sua nota em matematica? ", "Ex: 8")
-nota2 = get_integer("Qual foi sua nota em ciencias? ", "Ex: 8")
-nota3= get_integer("Qual foi sua nota em portugues? ", "Ex: 8")
-nota4= get_integer("Qual foi sua nota em historia? ", "Ex: 8")
+/*
+nota1 = get_integer("Qual foi sua nota em matematica? ", "Ex: 8");
+nota2 = get_integer("Qual foi sua nota em ciencias? ", "Ex: 8");
+nota3= get_integer("Qual foi sua nota em portugues? ", "Ex: 8");
+nota4= get_integer("Qual foi sua nota em historia? ", "Ex: 8");
 quantidade_notas = 4
 nota_min = 7
 
@@ -90,15 +91,47 @@ if (media >= nota_min)
 {
 	show_message("Você passou de ano!")
 }
+else if (media >= 5)
+{
+	show_message("Mais estudos na recuperação!")
+}
 else
 {
 	show_message("Mais esforço na próxima vez!")
 }
 
 show_message("Até o próximo ano!");
+*/
 
+/*
+status = idade >= 18
+idade = get_integer("Qual é a sua idade? ", "Ex: 18");
 
+if (status)
+{
+	show_message("Você é Bem Vindo!")
+}
 
+else
+{
+	show_message("Você não pode ver o conteudo deste site.")
+}
+*/
 
+/*
+idade = get_integer("Qual é a sua idade? ", "Ex: 18");
+mentir_idade = show_question("Você mentiria sua idade?");
+idade_minima = 18
 
+if (idade >= idade_minima or mentir_idade)
+{
+	show_message("Você é bem vindo!")
+}
+else 
+{
+	show_message("Saia do site.")
+}
+*/
+
+show_message(global.variavel3)
 

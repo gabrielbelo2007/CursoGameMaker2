@@ -4,6 +4,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":0,},
     {"id":{"name":"spr_heroi","path":"sprites/spr_heroi/spr_heroi.yy",},"order":0,},
     {"id":{"name":"obj_anotacoes","path":"objects/obj_anotacoes/obj_anotacoes.yy",},"order":1,},
+    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},"order":2,},
     {"id":{"name":"spr_nineslice","path":"sprites/spr_nineslice/spr_nineslice.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
